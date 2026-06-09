@@ -1,0 +1,6 @@
+{
+  "name": "Electricity Bill Management System",
+  "description": "An interactive, feature-rich system to compute tiered electricity bills, manage consumers, track payments, and explore Java OOP code simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
